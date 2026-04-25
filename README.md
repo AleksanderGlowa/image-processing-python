@@ -1,1 +1,7 @@
-# image-processing-python
+- Wczytanie obrazu z internetu (urllib)
+- Wyświetlenie obrazu (matplotlib)
+- Zmniejszenie rozdzielczości (50%)
+- Konwersja do skali szarości (OpenCV)
+- Obrót o 90°
+- Zapis obrazu wynikowego
+- Wyświetlenie macierzy pikseli
